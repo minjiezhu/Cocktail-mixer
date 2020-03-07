@@ -1,2 +1,4 @@
 # Cocktail mixer
- The Arduino code for cocktail mixer project. 
+ Arduino code for the cocktail mixer project. 
+ 
+ The product: https://www.youtube.com/watch?v=ZtugQz-cWkk
